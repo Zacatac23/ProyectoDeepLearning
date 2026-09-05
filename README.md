@@ -31,7 +31,6 @@ ProyectoDeepLearning/
 ├── proyecto1_monitoreo_transaccional.ipynb     # Notebook PRINCIPAL (100% Autocontenido)
 ├── informe.pdf                                # Informe técnico y de negocio formal (6 evidencias)
 ├── presentacion.pdf                           # Diapositivas ejecutivas del proyecto
-├── guia_proyecto1_monitoreo_transaccional.md  # Guía de requerimientos original del curso
 ├── README.md                                  # Documentación del proyecto, decisiones y API contract
 └── artefactos/                                 # Artefactos exportados durante la ejecución
     ├── modelo_a_baseline.pt                   # Pesos serializados del Modelo A (MLP Tabular)
